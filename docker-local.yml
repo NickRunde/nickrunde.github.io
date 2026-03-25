@@ -7,4 +7,8 @@ services:
     ports:
       - 8080:8080
     volumes:
-      - .:/srv/jekyll
+      - .:/srv/jekyll:Z
+      - jekyll-cache:/srv/jekyll/.jekyll-cache
+
+volumes:
+  jekyll-cache:

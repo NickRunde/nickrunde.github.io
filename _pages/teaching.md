@@ -1,37 +1,62 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: my teaching experience
+title: Teaching
+description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
-### Teaching Assistant:
+### Instructor
 
-Currently teaching in shared responsibility at RWTH Aachen (winter term 2023/2024):
-- **Practical Course for Machine Learning on Graphs**
-- **Seminar on Theoretical Topics in Data Science**
+RWTH Aachen University:
+- **Machine Learning for Sales Prediction in Retail** (WS 2024)
+- **Machine Learning on Graphs** (WS 2023)
 
+<br>
 
-Summer term 2023 at RWTH Aachen
-- **Algorithmic Foundations of Data Science**
-- **Seminar on Algorithms for Dynamic Data**
+---
 
-Supervised Thesis Projects:
-- **Clustering in a Relational Data World**, Bachelor's thesis, summer term 2023
+### Teaching Assistant
 
+RWTH Aachen University:
+- **Automaten, Sprachen und Komplexität** (SS 2025, SS 2024)
+- **Algorithmic Foundations of Data Science** (SS 2023)
 
+<br>
 
-### Student Tutor:
-- **Theoretical Computer Science**, TU Dortmund, summer term 2018 
-- **Theoretical Computer Science**, TU Dortmund, summer term 2017
-- **Logic**, TU Dortmund, winter term 2016/2017  
+---
 
+### Seminar Supervision
 
+Supervised 1–2 students per semester in the following seminars at RWTH Aachen University:
+- **Komplexitätstheorie** (SS 2025, SS 2024)
+- **Theoretical Topics in Data Science** (WS 2024, WS 2023)
+- **Algorithms for Dynamic Data** (SS 2023)
 
-### Mentoring:
-* **First Semester Mentoring**:
-    weekly meetings, mentoring a group of first semester students in computer science, RWTH Aachen, winter term 2021.
-* 2016 **MinTU**:
-    a year long project of organizing workshops and mentoring a group of girls with interest in math and computer science, TU Dortmund, 2015
+<br>
+
+---
+
+### Thesis Supervision
+
+Supervised 3 bachelor's theses and 1 master's thesis at RWTH Aachen University.
+
+<br>
+
+---
+
+### Student Tutor
+
+TU Dortmund:
+- **Theoretical Computer Science** (SS 2018, SS 2017)
+- **Logic** (WS 2016/2017)
+
+<br>
+
+---
+
+### Mentoring
+
+- **First Semester Mentoring** — weekly meetings with a group of first-semester computer science students, RWTH Aachen, WS 2021
+- **MinTU** — year-long project organising workshops and mentoring a group of girls with interest in mathematics and computer science, TU Dortmund, 2015/2016

@@ -1,21 +1,22 @@
 {
   "basics": {
-    "name": "Nina Runde",
+    "name": "Nick Runde",
     "image": "",
-    "email": "runde@lics.rwth-aachen.de",
-    "url": "https://ninarunde.github.io",
+    "email": "n.runde@posteo.de",
+    "url": "https://nickrunde.github.io",
     "languages": "German, English"
   },
   "education": [
     {
       "institution": "RWTH Aachen University",
       "url": "https://www.rwth-aachen.de",
-      "studyType": "PhD Student",
+      "studyType": "Graduate Research Assistant",
       "startDate": "2023-03",
+      "endDate": "2025-11",
       "score": "",
       "courses": [
         "supervised by Prof Martin Grohe",
-        "see teaching"
+        "see <a href='/teaching/'>teaching</a>, <a href='/publications/'>publications</a>, and <a href='/talks/'>talks</a>"
       ]
     },
     {
@@ -55,10 +56,11 @@
     },
     {
       "name": "RWTH Aachen, TU Dortmund",
-      "position": "Various Jobs as Teaching Assistant",
-      "url": "https://ninarunde.github.io/teaching/",
+      "position": "Multiple Jobs as Teaching Assistant",
+      "url": "https://nickrunde.github.io/teaching/",
       "startDate": "2016",
-      "summary": "view teaching"
+      "endDate": "2022",
+      "highlights": ["<a href='/teaching/'>view teaching</a>"]
     }
   ],
   "volunteer": [],

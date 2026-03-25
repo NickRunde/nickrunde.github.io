@@ -4,12 +4,18 @@
 
 
 
-@misc{boeker2023complexity,
-      title={The Complexity of Homomorphism Reconstructibility}, 
-      author={Jan Böker and Louis Härtel and Nina Runde and Tim Seppelt and Christoph Standke},
+@inproceedings{boeker2024complexity,
+      title={The Complexity of Homomorphism Reconstructibility},
+      author={Jan Böker and Louis Härtel and Nick Runde and Tim Seppelt and Christoph Standke},
       abstract={Representing graphs by their homomorphism counts has led to the beautiful theory of homomorphism indistinguishability in recent years. Moreover, homomorphism counts have promising applications in database theory and machine learning, where one would like to answer queries or classify graphs solely based on the representation of a graph G as a finite vector of homomorphism counts from some fixed finite set of graphs to G. We study the computational complexity of the arguably most fundamental computational problem associated to these representations, the homomorphism reconstructability problem: given a finite sequence of graphs and a corresponding vector of natural numbers, decide whether there exists a graph G that realises the given vector as the homomorphism counts from the given graphs.
 We show that this problem yields a natural example of an $\mathsf{NP}^{#\mathsf{P}}$-hard problem, which still can be 𝖭𝖯-hard when restricted to a fixed number of input graphs of bounded treewidth and a fixed input vector of natural numbers, or alternatively, when restricted to a finite input set of graphs. We further show that, when restricted to a finite input set of graphs and given an upper bound on the order of the graph G as additional input, the problem cannot be 𝖭𝖯-hard unless 𝖯=𝖭𝖯. For this regime, we obtain partial positive results. We also investigate the problem's parameterised complexity and provide fpt-algorithms for the case that a single graph is given and that multiple graphs of the same order with subgraph instead of homomorphism counts are given.},
-      year={2023},
+      booktitle={41st International Symposium on Theoretical Aspects of Computer Science (STACS 2024)},
+      series={Leibniz International Proceedings in Informatics (LIPIcs)},
+      volume={289},
+      pages={19:1--19:20},
+      publisher={Schloss Dagstuhl -- Leibniz-Zentrum für Informatik},
+      year={2024},
+      doi={10.4230/LIPIcs.STACS.2024.19},
       arxiv={2310.09009},
       eprint={2310.09009},
       archivePrefix={arXiv},
@@ -19,13 +25,19 @@ We show that this problem yields a natural example of an $\mathsf{NP}^{#\mathsf{
 }
 
 
-@misc{vanbergerem2023parameterized,
-      title={The Parameterized Complexity of Learning Monadic Second-Order Logic}, 
-      author={Steffen van Bergerem and Martin Grohe and Nina Runde},
+@inproceedings{vanbergerem2025parameterized,
+      title={The Parameterized Complexity of Learning Monadic Second-Order Logic},
+      author={Steffen van Bergerem and Martin Grohe and Nick Runde},
       abstract={Within the model-theoretic framework for supervised learning introduced by Grohe and Turán (TOCS 2004), we study the parameterized complexity of learning concepts definable in monadic second-order logic (MSO).
 We show that the problem of learning an MSO-definable concept from a training sequence of labeled examples is fixed-parameter tractable on graphs of bounded clique-width, and that it is hard for the parameterized complexity class para-NP on general graphs.
 It turns out that an important distinction to be made is between 1-dimensional and higher-dimensional concepts, where the instances of a k-dimensional concept are k-tuples of vertices of a graph. The tractability results we obtain for the 1-dimensional case are stronger and more general, and they are much easier to prove. In particular, our learning algorithm in the higher-dimensional case is only fixed-parameter tractable in the size of the graph, but not in the size of the training sequence, and we give a hardness result showing that this is optimal. By comparison, in the 1-dimensional case, we obtain an algorithm that is fixed-parameter tractable in both.},
-      year={2023},
+      booktitle={33rd EACSL Annual Conference on Computer Science Logic (CSL 2025)},
+      series={Leibniz International Proceedings in Informatics (LIPIcs)},
+      volume={326},
+      pages={8:1--8:19},
+      publisher={Schloss Dagstuhl -- Leibniz-Zentrum für Informatik},
+      year={2025},
+      doi={10.4230/LIPIcs.CSL.2025.8},
       arxiv={2309.10489},
       eprint={2309.10489},
       archivePrefix={arXiv},
