@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ninarunde.github.io/sitemap.xml
+Sitemap: https://nickrunde.github.io/sitemap.xml
